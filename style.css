@@ -61,6 +61,12 @@ h1 {
     margin-bottom: 1rem;
 }
 
+main .inicio{
+  text-align: center;
+  margin-bottom: 1rem;
+  font-size: 19px;
+}
+
 
 footer {
     background-color: #672f62;
@@ -79,6 +85,8 @@ main .contact img{
   border-radius: 11px;
 }
 
+/* menu desplegable que responde como lista */
+
 summary{
   list-style: none;
   font-size: 15px;
@@ -89,7 +97,7 @@ summary:before{
   content:" - ";
 }
 
-/* style.css */
+
 .menu{
   width:200px;
   border-radius: 40%;
@@ -104,6 +112,12 @@ summary:before{
   color: white;
   text-align: center;
 }
+
+.menu ul{
+  list-style: none;
+  
+}
+  
 
 .menu ul{
   list-style: none;
