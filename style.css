@@ -95,8 +95,8 @@ main .contact a {
 }
 
 main .contact img {
-    max-width: 100%;
-    height: auto;
+    max-width: 250px;
+    height: 180px;
     border-radius: 50%;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     transition: transform 2s ease, box-shadow 3s ease, border-radius 2s ease;
